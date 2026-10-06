@@ -1,0 +1,117 @@
+{
+ "events": [
+  {
+   "data": {
+    "orig_unit": "mg/dL",
+    "orig_value": "HI",
+    "value_mgdl": null
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [
+    "non_numeric_glucose"
+   ],
+   "kind": "glucose_auto",
+   "local": "2021-07-14 08:00:00",
+   "row_hash": "84c8d40337e5ed9b11a87c7449e94cb46a19b88ff9a39002a49509707f00849b",
+   "serial": "SER-1",
+   "source_row": 3,
+   "utc": "2021-07-14T12:00:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mg/dL",
+    "orig_value": "LO",
+    "value_mgdl": null
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [
+    "non_numeric_glucose"
+   ],
+   "kind": "glucose_auto",
+   "local": "2021-07-14 08:15:00",
+   "row_hash": "ebbf787342d96d184f81ace1a9b4d05bdb629f8b2031aa12e216e811cd8d2ce8",
+   "serial": "SER-1",
+   "source_row": 4,
+   "utc": "2021-07-14T12:15:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mg/dL",
+    "orig_value": 88.0,
+    "value_mgdl": 88.0
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2021-07-14 08:30:00",
+   "row_hash": "dfd614eb2e2b65aa9c9218f4bb749d8b70137f695ab18e20ec8f74e69e5a725c",
+   "serial": "SER-1",
+   "source_row": 5,
+   "utc": "2021-07-14T12:30:00+00:00"
+  }
+ ],
+ "file_hash": "118cbbb563cb7749f0a32ed4d20150c4af85a9f0895fed1e5e3f72beb9e5812e",
+ "report": {
+  "auto_reading_interval_minutes": {
+   "count": 3,
+   "median": 15.0,
+   "most_common_rounded": [
+    [
+     15,
+     2
+    ]
+   ]
+  },
+  "date_format_resolution": "unambiguous",
+  "date_format_used": "%m-%d-%Y %I:%M %p",
+  "date_range_local": [
+   "2021-07-14 08:00:00",
+   "2021-07-14 08:30:00"
+  ],
+  "devices": {
+   "FreeStyle LibreLink": 3
+  },
+  "dst_flagged_rows": 0,
+  "duplicate_rows_dropped": 0,
+  "empty_rows_discarded": 0,
+  "events_by_kind": {
+   "glucose_auto": 3
+  },
+  "events_created": 3,
+  "gaps_over_30_min": {
+   "count": 0,
+   "longest_min": 0,
+   "total_hours": 0
+  },
+  "glucose_units_in_file": {
+   "hist_glucose": "mg/dL",
+   "scan_glucose": "mg/dL",
+   "strip_glucose": "mg/dL"
+  },
+  "likely_sensor_family": "LibreLink app / Libre 1-2 family (device name); automatic-reading median interval: 15 min",
+  "privacy": {
+   "account_name_discarded": true,
+   "extra_metadata_rows_discarded": 0,
+   "note": "The export contains the account holder's name; it was not read or stored."
+  },
+  "provider_export": false,
+  "record_type_counts": {
+   "0": 3
+  },
+  "rows_bad_timestamp": 0,
+  "rows_in_file": 4,
+  "rows_with_unmapped_data": 0,
+  "rows_wrong_length": 1,
+  "serial_numbers_seen": 1,
+  "timezone_assumed": "America/New_York",
+  "unknown_columns": [
+   "Mystery Column"
+  ],
+  "unparsed_row_examples": [
+   [
+    6,
+    "wrong number of fields"
+   ]
+  ]
+ }
+}

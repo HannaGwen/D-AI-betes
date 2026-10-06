@@ -1,0 +1,343 @@
+{
+ "events": [
+  {
+   "data": {
+    "orig_unit": "mg/dL",
+    "orig_value": 100.0,
+    "value_mgdl": 100.0
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2021-07-14 06:00:00",
+   "row_hash": "124b4103a4bdc50d34e272b55492bcdb6cd4ef81431179712650af4a7c72947b",
+   "serial": "SER-1",
+   "source_row": 3,
+   "utc": "2021-07-14T10:00:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mg/dL",
+    "orig_value": 103.0,
+    "value_mgdl": 103.0
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2021-07-14 06:15:00",
+   "row_hash": "056d9a0f1483e2960755d96597eb2c802ce5ad303ec37ac633ba315e5efe118a",
+   "serial": "SER-1",
+   "source_row": 4,
+   "utc": "2021-07-14T10:15:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mg/dL",
+    "orig_value": 106.0,
+    "value_mgdl": 106.0
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2021-07-14 06:30:00",
+   "row_hash": "6c163a0b59f82821b03d7eeac476909875ffed5f373927e0e286158e209cd882",
+   "serial": "SER-1",
+   "source_row": 5,
+   "utc": "2021-07-14T10:30:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mg/dL",
+    "orig_value": 109.0,
+    "value_mgdl": 109.0
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2021-07-14 06:45:00",
+   "row_hash": "4b5f809f35f116a407e3cffdd1037ca4b7f2e4ef78868e75e4a5e9fec4c34eb2",
+   "serial": "SER-1",
+   "source_row": 6,
+   "utc": "2021-07-14T10:45:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mg/dL",
+    "orig_value": 112.0,
+    "value_mgdl": 112.0
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2021-07-14 07:00:00",
+   "row_hash": "e01d3e8f74e109cd30b08b637edafc7665c13090eb85492b0b26934489f1454f",
+   "serial": "SER-1",
+   "source_row": 7,
+   "utc": "2021-07-14T11:00:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mg/dL",
+    "orig_value": 115.0,
+    "value_mgdl": 115.0
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2021-07-14 07:15:00",
+   "row_hash": "59b7c894c3c0cad26d6f327d422d7c65f35dccb9e6afb0abb062698408159481",
+   "serial": "SER-1",
+   "source_row": 8,
+   "utc": "2021-07-14T11:15:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mg/dL",
+    "orig_value": 118.0,
+    "value_mgdl": 118.0
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2021-07-14 07:30:00",
+   "row_hash": "cf43b8606482b468c6cacbaa0a168699cae8993cf3b359d874c7de3e98f553eb",
+   "serial": "SER-1",
+   "source_row": 9,
+   "utc": "2021-07-14T11:30:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mg/dL",
+    "orig_value": 121.0,
+    "value_mgdl": 121.0
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2021-07-14 07:45:00",
+   "row_hash": "535baa643deaa0134a88436603c1f24d4086bb35f29645d0c2a1edeb5dac7de7",
+   "serial": "SER-1",
+   "source_row": 10,
+   "utc": "2021-07-14T11:45:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mg/dL",
+    "orig_value": 111.0,
+    "value_mgdl": 111.0
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_scan",
+   "local": "2021-07-14 08:03:00",
+   "row_hash": "c8eb9b039bbf41af0abb4346d657e0e33f3f3fd8936755982125c7740f12e027",
+   "serial": "SER-1",
+   "source_row": 11,
+   "utc": "2021-07-14T12:03:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mg/dL",
+    "orig_value": 105.0,
+    "value_mgdl": 105.0
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_strip",
+   "local": "2021-07-14 09:00:00",
+   "row_hash": "a4985e4eaff1a7a65226fa7f41d10801d57ad340c039c2cc85be07ddd26ce6cc",
+   "serial": "SER-1",
+   "source_row": 18,
+   "utc": "2021-07-14T13:00:00+00:00"
+  },
+  {
+   "data": {
+    "carbs_g": null,
+    "confidence": "low",
+    "marker_only": true,
+    "servings": null,
+    "source": "libre_app"
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "food",
+   "local": "2021-07-14 12:30:00",
+   "row_hash": "e9dbcc08b9be17c8221e9efc5f96dcbf449ed9382446b1f5b64394f0dec878f2",
+   "serial": "SER-1",
+   "source_row": 14,
+   "utc": "2021-07-14T16:30:00+00:00"
+  },
+  {
+   "data": {
+    "text": "lunch, light"
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "note",
+   "local": "2021-07-14 12:31:00",
+   "row_hash": "8f54d471e9427c88a0f1bbea65d8bc221c316b712c3062e6787416a1e202e604",
+   "serial": "SER-1",
+   "source_row": 15,
+   "utc": "2021-07-14T16:31:00+00:00"
+  },
+  {
+   "data": {
+    "confidence": "low",
+    "marker_only": false,
+    "purpose": "unspecified",
+    "role": "rapid",
+    "source": "libre_app",
+    "units": 6.0
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "insulin",
+   "local": "2021-07-14 12:40:00",
+   "row_hash": "c13b052bc4b03a450772b4657e0ff0519d941c1c8cb42dc3468f0096b708095d",
+   "serial": "SER-1",
+   "source_row": 16,
+   "utc": "2021-07-14T16:40:00+00:00"
+  },
+  {
+   "data": {
+    "confidence": "low",
+    "marker_only": false,
+    "purpose": "unspecified",
+    "role": "long",
+    "source": "libre_app",
+    "units": 14.0
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "insulin",
+   "local": "2021-07-14 22:00:00",
+   "row_hash": "cb1b075dc3b1bacfa9bf3404151058c81dd2566d98d2201a5831b47afaf35fd4",
+   "serial": "SER-1",
+   "source_row": 17,
+   "utc": "2021-07-15T02:00:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mg/dL",
+    "orig_value": 99.0,
+    "value_mgdl": 99.0
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2021-07-15 07:00:00",
+   "row_hash": "dddfe33db271e0a98b06ee716367a748912b1a7147593cae14fba9fee1189751",
+   "serial": "SER-1",
+   "source_row": 19,
+   "utc": "2021-07-15T11:00:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mg/dL",
+    "orig_value": 101.0,
+    "value_mgdl": 101.0
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2021-07-15 07:17:00",
+   "row_hash": "296c7b0cbca63a74a88a218520adfa32bceaf4349f98e50b7907c1f362d0f480",
+   "serial": "SER-1",
+   "source_row": 21,
+   "utc": "2021-07-15T11:17:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mg/dL",
+    "orig_value": 130.0,
+    "value_mgdl": 130.0
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2021-07-15 09:40:00",
+   "row_hash": "cf6c945217d6b7b35707ce73353f70f488fb0f99827f126c228e0a1f1068e390",
+   "serial": "SER-1",
+   "source_row": 22,
+   "utc": "2021-07-15T13:40:00+00:00"
+  }
+ ],
+ "file_hash": "057700384cba231e0b74d9a7061c5043c23db0a6e865f0544529644145c14665",
+ "report": {
+  "auto_reading_interval_minutes": {
+   "count": 11,
+   "median": 15.0,
+   "most_common_rounded": [
+    [
+     15,
+     7
+    ],
+    [
+     1395,
+     1
+    ],
+    [
+     17,
+     1
+    ],
+    [
+     143,
+     1
+    ]
+   ]
+  },
+  "date_format_resolution": "unambiguous",
+  "date_format_used": "%m-%d-%Y %I:%M %p",
+  "date_range_local": [
+   "2021-07-14 06:00:00",
+   "2021-07-15 09:40:00"
+  ],
+  "devices": {
+   "FreeStyle LibreLink": 20
+  },
+  "dst_flagged_rows": 0,
+  "duplicate_rows_dropped": 1,
+  "empty_rows_discarded": 2,
+  "events_by_kind": {
+   "food": 1,
+   "glucose_auto": 11,
+   "glucose_scan": 1,
+   "glucose_strip": 1,
+   "insulin": 2,
+   "note": 1
+  },
+  "events_created": 17,
+  "gaps_over_30_min": {
+   "count": 2,
+   "longest_min": 1395,
+   "total_hours": 25.6
+  },
+  "glucose_units_in_file": {
+   "hist_glucose": "mg/dL",
+   "scan_glucose": "mg/dL",
+   "strip_glucose": "mg/dL"
+  },
+  "likely_sensor_family": "LibreLink app / Libre 1-2 family (device name); automatic-reading median interval: 15 min",
+  "privacy": {
+   "account_name_discarded": true,
+   "extra_metadata_rows_discarded": 0,
+   "note": "The export contains the account holder's name; it was not read or stored."
+  },
+  "provider_export": false,
+  "record_type_counts": {
+   "0": 13,
+   "1": 1,
+   "4": 2,
+   "5": 1,
+   "6": 3
+  },
+  "rows_bad_timestamp": 0,
+  "rows_in_file": 20,
+  "rows_with_unmapped_data": 0,
+  "rows_wrong_length": 0,
+  "serial_numbers_seen": 1,
+  "timezone_assumed": "America/New_York",
+  "unknown_columns": [],
+  "unparsed_row_examples": []
+ }
+}

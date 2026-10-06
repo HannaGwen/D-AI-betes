@@ -1,0 +1,91 @@
+{
+ "events": [
+  {
+   "data": {
+    "orig_unit": "mg/dL",
+    "orig_value": 100.0,
+    "value_mgdl": 100.0
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2023-04-03 08:00:00",
+   "row_hash": "ee0ef9a970d2c736938adc65890b71599317f792c58f5c1d02e760e8fda5cbb4",
+   "serial": "SER-1",
+   "source_row": 3,
+   "utc": "2023-04-03T07:00:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mg/dL",
+    "orig_value": 101.0,
+    "value_mgdl": 101.0
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2023-04-04 08:00:00",
+   "row_hash": "8a3ef13c1bce885589102aaff93ac18dd2fc4c1772f53a39660fcef0beda9374",
+   "serial": "SER-1",
+   "source_row": 4,
+   "utc": "2023-04-04T07:00:00+00:00"
+  }
+ ],
+ "file_hash": "4eeeaec7dbdc5828742acdfcd6f68bd1d5f6c377c9f81ca6bfcc820d5e8e1ce6",
+ "report": {
+  "auto_reading_interval_minutes": {
+   "count": 2,
+   "median": 1440.0,
+   "most_common_rounded": [
+    [
+     1440,
+     1
+    ]
+   ]
+  },
+  "date_format_resolution": "user_supplied",
+  "date_format_used": "%d-%m-%Y %H:%M",
+  "date_range_local": [
+   "2023-04-03 08:00:00",
+   "2023-04-04 08:00:00"
+  ],
+  "devices": {
+   "FreeStyle LibreLink": 2
+  },
+  "dst_flagged_rows": 0,
+  "duplicate_rows_dropped": 0,
+  "empty_rows_discarded": 0,
+  "events_by_kind": {
+   "glucose_auto": 2
+  },
+  "events_created": 2,
+  "gaps_over_30_min": {
+   "count": 1,
+   "longest_min": 1440,
+   "total_hours": 24.0
+  },
+  "glucose_units_in_file": {
+   "hist_glucose": "mg/dL",
+   "scan_glucose": "mg/dL",
+   "strip_glucose": "mg/dL"
+  },
+  "likely_sensor_family": "LibreLink app / Libre 1-2 family (device name); automatic-reading median interval: 1440 min",
+  "privacy": {
+   "account_name_discarded": true,
+   "extra_metadata_rows_discarded": 0,
+   "note": "The export contains the account holder's name; it was not read or stored."
+  },
+  "provider_export": false,
+  "record_type_counts": {
+   "0": 2
+  },
+  "rows_bad_timestamp": 0,
+  "rows_in_file": 2,
+  "rows_with_unmapped_data": 0,
+  "rows_wrong_length": 0,
+  "serial_numbers_seen": 1,
+  "timezone_assumed": "Europe/London",
+  "unknown_columns": [],
+  "unparsed_row_examples": []
+ }
+}

@@ -1,0 +1,277 @@
+{
+ "events": [
+  {
+   "data": {
+    "orig_unit": "mmol/L",
+    "orig_value": 5.0,
+    "value_mgdl": 90.09
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2022-09-14 08:00:00",
+   "row_hash": "bd2c0857668b6ffaea9c6f7fedf9928248a58805bc396e4172fb8d5e2ae9b2fa",
+   "serial": "SER-1",
+   "source_row": 3,
+   "utc": "2022-09-14T07:00:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mmol/L",
+    "orig_value": 5.4,
+    "value_mgdl": 97.3
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2022-09-14 08:15:00",
+   "row_hash": "ba37f9c0b16912fa62741711bf62b001814ba840719b85490604e77f32eccc1d",
+   "serial": "SER-1",
+   "source_row": 4,
+   "utc": "2022-09-14T07:15:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mmol/L",
+    "orig_value": 5.8,
+    "value_mgdl": 104.51
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2022-09-14 08:30:00",
+   "row_hash": "d828a1941504466d35c0893afe2c071ad81bab80b3fb40bb6f47725dcb46f63d",
+   "serial": "SER-1",
+   "source_row": 5,
+   "utc": "2022-09-14T07:30:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mmol/L",
+    "orig_value": 6.2,
+    "value_mgdl": 111.71
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2022-09-14 08:45:00",
+   "row_hash": "bb4f0f42ad30d07d35eb7e0f33f40097bafcf495e04510ce1f432d8c8b03b992",
+   "serial": "SER-1",
+   "source_row": 6,
+   "utc": "2022-09-14T07:45:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mmol/L",
+    "orig_value": 6.6,
+    "value_mgdl": 118.92
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2022-09-14 09:00:00",
+   "row_hash": "146e1f0339bae460a9b2fef3a0b86f9bd6c9d9ba968f260f9801be4695b9cce4",
+   "serial": "SER-1",
+   "source_row": 7,
+   "utc": "2022-09-14T08:00:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mmol/L",
+    "orig_value": 7.0,
+    "value_mgdl": 126.13
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2022-09-14 09:15:00",
+   "row_hash": "2e2ac96d731b51417d673fceaa65db0283a24bee0efd3cae2e240e8267335fcd",
+   "serial": "SER-1",
+   "source_row": 8,
+   "utc": "2022-09-14T08:15:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mmol/L",
+    "orig_value": 7.4,
+    "value_mgdl": 133.33
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2022-09-14 09:30:00",
+   "row_hash": "83e3f4fea777974d362abac6ab1ca3e0e96675621c0a548f10e1ef312c0b578b",
+   "serial": "SER-1",
+   "source_row": 9,
+   "utc": "2022-09-14T08:30:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mmol/L",
+    "orig_value": 5.0,
+    "value_mgdl": 90.09
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2022-09-14 09:45:00",
+   "row_hash": "90c87e76181ab7b2b73f7e7f2c39618d3a9144d7f822b177f62dacfd99a7fa5e",
+   "serial": "SER-1",
+   "source_row": 10,
+   "utc": "2022-09-14T08:45:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mmol/L",
+    "orig_value": 7.2,
+    "value_mgdl": 129.73
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_scan",
+   "local": "2022-09-14 09:50:00",
+   "row_hash": "d2b9fab670f8d34e9d060793ae15d8490bca5bb5be3844ca058e1ad2433cdd10",
+   "serial": "SER-1",
+   "source_row": 15,
+   "utc": "2022-09-14T08:50:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mmol/L",
+    "orig_value": 5.4,
+    "value_mgdl": 97.3
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2022-09-14 10:00:00",
+   "row_hash": "1c587ebeeb4eaa50331b9e4330d36025d069920d63de216d4b45db3b7f6ff736",
+   "serial": "SER-1",
+   "source_row": 11,
+   "utc": "2022-09-14T09:00:00+00:00"
+  },
+  {
+   "data": {
+    "carbs_g": 45.0,
+    "confidence": "low",
+    "marker_only": false,
+    "servings": null,
+    "source": "libre_app"
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "food",
+   "local": "2022-09-14 10:00:00",
+   "row_hash": "14234df471180e497fe4631c0ffcd520ee20cf9cfbded6856e12bd14206d8b7d",
+   "serial": "SER-1",
+   "source_row": 16,
+   "utc": "2022-09-14T09:00:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mmol/L",
+    "orig_value": 5.8,
+    "value_mgdl": 104.51
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2022-09-14 10:15:00",
+   "row_hash": "633514adbdca8c1cf1a052e1c6d06b03623843539dcdf28c383a78f5c7845168",
+   "serial": "SER-1",
+   "source_row": 12,
+   "utc": "2022-09-14T09:15:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mmol/L",
+    "orig_value": 6.2,
+    "value_mgdl": 111.71
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2022-09-14 10:30:00",
+   "row_hash": "73b15c0b4d03476fb16c978098d58459fd86e590b2743177fc9628b3436106b5",
+   "serial": "SER-1",
+   "source_row": 13,
+   "utc": "2022-09-14T09:30:00+00:00"
+  },
+  {
+   "data": {
+    "orig_unit": "mmol/L",
+    "orig_value": 6.6,
+    "value_mgdl": 118.92
+   },
+   "device": "FreeStyle LibreLink",
+   "flags": [],
+   "kind": "glucose_auto",
+   "local": "2022-09-14 10:45:00",
+   "row_hash": "33327a0d1a66e76d832ebe6ffbaa8534005a74277976a9135285f434a36d4c95",
+   "serial": "SER-1",
+   "source_row": 14,
+   "utc": "2022-09-14T09:45:00+00:00"
+  }
+ ],
+ "file_hash": "fcbc299c93a47054ee226b9b6607793fdd69c3de660b079c3cfed3b92b68fd32",
+ "report": {
+  "auto_reading_interval_minutes": {
+   "count": 12,
+   "median": 15.0,
+   "most_common_rounded": [
+    [
+     15,
+     11
+    ]
+   ]
+  },
+  "date_format_resolution": "unambiguous",
+  "date_format_used": "%d-%m-%Y %H:%M",
+  "date_range_local": [
+   "2022-09-14 08:00:00",
+   "2022-09-14 10:45:00"
+  ],
+  "devices": {
+   "FreeStyle LibreLink": 14
+  },
+  "dst_flagged_rows": 0,
+  "duplicate_rows_dropped": 0,
+  "empty_rows_discarded": 0,
+  "events_by_kind": {
+   "food": 1,
+   "glucose_auto": 12,
+   "glucose_scan": 1
+  },
+  "events_created": 14,
+  "gaps_over_30_min": {
+   "count": 0,
+   "longest_min": 0,
+   "total_hours": 0
+  },
+  "glucose_units_in_file": {
+   "hist_glucose": "mmol/L",
+   "scan_glucose": "mmol/L",
+   "strip_glucose": "mmol/L"
+  },
+  "likely_sensor_family": "LibreLink app / Libre 1-2 family (device name); automatic-reading median interval: 15 min",
+  "privacy": {
+   "account_name_discarded": true,
+   "extra_metadata_rows_discarded": 0,
+   "note": "The export contains the account holder's name; it was not read or stored."
+  },
+  "provider_export": false,
+  "record_type_counts": {
+   "0": 12,
+   "1": 1,
+   "5": 1
+  },
+  "rows_bad_timestamp": 0,
+  "rows_in_file": 14,
+  "rows_with_unmapped_data": 0,
+  "rows_wrong_length": 0,
+  "serial_numbers_seen": 1,
+  "timezone_assumed": "Europe/London",
+  "unknown_columns": [],
+  "unparsed_row_examples": []
+ }
+}

@@ -1,0 +1,100 @@
+[
+ {
+  "name": "us_basic",
+  "file": "us_basic.csv",
+  "tz": "America/New_York",
+  "date_format": null,
+  "expect": "ok"
+ },
+ {
+  "name": "uk_mmol",
+  "file": "uk_mmol.csv",
+  "tz": "Europe/London",
+  "date_format": null,
+  "expect": "ok"
+ },
+ {
+  "name": "semicolon_comma",
+  "file": "semicolon_comma.csv",
+  "tz": "Europe/London",
+  "date_format": null,
+  "expect": "ok"
+ },
+ {
+  "name": "tab",
+  "file": "tab.csv",
+  "tz": "Europe/London",
+  "date_format": null,
+  "expect": "ok"
+ },
+ {
+  "name": "provider",
+  "file": "provider.csv",
+  "tz": "America/New_York",
+  "date_format": null,
+  "expect": "ok"
+ },
+ {
+  "name": "ambiguous_resolved",
+  "file": "ambiguous_resolved.csv",
+  "tz": "Europe/London",
+  "date_format": null,
+  "expect": "ok"
+ },
+ {
+  "name": "ambiguous_error",
+  "file": "ambiguous_error.csv",
+  "tz": "Europe/London",
+  "date_format": null,
+  "expect": "ambiguous"
+ },
+ {
+  "name": "ambiguous_forced",
+  "file": "ambiguous_forced.csv",
+  "tz": "Europe/London",
+  "date_format": "%d-%m-%Y %H:%M",
+  "expect": "ok"
+ },
+ {
+  "name": "dst_london",
+  "file": "dst_london.csv",
+  "tz": "Europe/London",
+  "date_format": null,
+  "expect": "ok"
+ },
+ {
+  "name": "hilo_unknown_col",
+  "file": "hilo_unknown_col.csv",
+  "tz": "America/New_York",
+  "date_format": null,
+  "expect": "ok"
+ },
+ {
+  "name": "libre3_name",
+  "file": "libre3_name.csv",
+  "tz": "America/New_York",
+  "date_format": null,
+  "expect": "ok"
+ },
+ {
+  "name": "err_empty",
+  "file": "err_empty.csv",
+  "tz": "Europe/London",
+  "date_format": null,
+  "expect": "error"
+ },
+ {
+  "name": "err_no_header",
+  "file": "err_no_header.csv",
+  "tz": "Europe/London",
+  "date_format": null,
+  "expect": "error"
+ },
+ {
+  "name": "err_no_glucose",
+  "file": "err_no_glucose.csv",
+  "tz": "Europe/London",
+  "date_format": null,
+  "expect": "error"
+ }
+]
